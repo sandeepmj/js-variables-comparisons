@@ -184,6 +184,14 @@ Now create a variable that combines previous variables to create a complete sent
 
 HINT: strings can be added together.
 
+### Template literals (Template strings)
+
+[](/img/expression1.png)
+
+You can even escape within template strings:
+
+[](/img/expression2.png)
+
 <!--
 ### Arrays
 
