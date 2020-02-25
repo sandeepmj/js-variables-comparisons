@@ -240,7 +240,9 @@ You've seen some of these operators before:
 -   `5 > 3` or 5 is greater than 3.
 -   `4 < 8` or 4 is less than 8.
 
-Where it gets a little stanger is for **equal** and **not equal**. Because we use `=` to assign value to a variable, we have to use `==` to denote equality and `!=` for inequality
+Where it gets a little stranger is for **equal** and **not equal**. Because we use `=` to assign value to a variable, we have to use `==` to denote equality and `!=` for inequality.
+
+There's also the interesting **`===`** which we'll get into later.
 
 Here's a [complete list of comparison operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators#Comparison_operators)
 
