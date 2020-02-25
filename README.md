@@ -1,6 +1,6 @@
 # Foundation for Logic in JavaScript Using Math, Variables and Comparisons
 
-We now move away from using coding to simply add interactivity to a website. Instead, we harness JavaScript's ability to calculate and to compare -- all foundations for programming logic.
+Let's harness JavaScript's ability to calculate and to compare -- all foundations for programming logic.
 
 ## Hello JavaScript Console
 
@@ -260,7 +260,7 @@ Imagine an interactive that does different things based on user input. For examp
 
 JavaScript actually has powerful **`if`** **`else`** conditional statements for such purposes.
 
-### Homework
+### In-class work if there is time:
 
 Declare the variables that you might use to create an interactive about the following **made up** situation:
 
@@ -268,4 +268,5 @@ A refugee inputs the number of members in their family. Based on that number, yo
 
 Create a .js file and declare relevant variables.
 
-  \*\*Due: Friday 5pm as a link to a GitHub repo that you have created AND then fill out this form (<https://goo.gl/forms/GhOnnOdqlUReWRou2>).
+<!--
+  \*\*Due: Friday 5pm as a link to a GitHub repo that you have created AND then fill out this form (<https://goo.gl/forms/GhOnnOdqlUReWRou2>). -->
