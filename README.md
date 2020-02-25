@@ -68,6 +68,16 @@ Variables are placeholders for values. They can be any of the following:
 -   **Time saver** — you can change its value in one place and the new value is called on throughout your code
 -   **Placeholder** — a variable can be empty until some event or user action or input gives it a value.
 
+### Declaring a Variable
+
+-   For a number, you simply type `let someNumberDog = 123;`
+
+-   For a string, you type `let someStringCat = "Some string of letters, words, etc.";`
+
+-   Strings must be contained within either `'Single Quotes'` or `"Double Quotes"`. You can't mix and match.
+
+-   You can also declare a variable but assign it a value later based on a computation or some input (age, name, etc.). You simply type `let somePlaceholderDogName;` to declare a variable with no value.
+
 ### Naming Variables
 
 This semester we will mostly work with two types of variables:
@@ -102,16 +112,6 @@ You get the same results but you won't be confused by these variables later as y
 -   Global variables can be used by multiple functions on the page.
 
 More on this later in the semester. -->
-
-### Declaring a Variable
-
--   For a number, you simply type `let someNumberDog = 123;`
-
--   For a string, you type `let someStringCat = "Some string of letters, words, etc.";`
-
--   Strings must be contained within either `'Single Quotes'` or `"Double Quotes"`. You can't mix and match.
-
--   You can also declare a variable but assign it a value later based on a computation or some input (age, name, etc.). You simply type `let somePlaceholderDogName;` to declare a variable with no value.
 
 <!-- -   Declaring all variables at the start is good practice. In the following example, we create global variables:
 
