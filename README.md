@@ -89,6 +89,12 @@ Our example where we had `let x = 1000` and `let y = 1100`. What if those values
 
  ![](/img/monthlyexpenses.png)
 
+-   You can also declare a variable and assign a value based on a computation at one time:
+
+    ![](/img/assignlet.png)
+
+You get the same results but you won't be confused by these variables later as you would be by x and y.
+
 <!-- ### Global v. Local Scope
 
 -   Local variables only work within the function they are in.
@@ -122,33 +128,17 @@ Add the two variables together. What do you get?
 
 Flip the order of adding them together. What do you get?
 
-![](/img/mag-glass.jpg)What's happening?
+### What Type of Variable?
 
-For example:
+![](/img/typeof.png)
 
-![](/img/monthly-declaration.png)
+<!-- ![](/img/mag-glass.jpg)What's happening?
 
--   You can also declare a variable and assign a value based on a computation at one time:
-
-![](/img/monthly-after-declaration.png)
-
-You might not remember what x and y variables stand for once you deep into your code, but you will remember what monthlyPaycheck and MonthlyExpenses stand for.
-
-Type:
-
-`let monthlyPaycheck = 1000;` and hit enter.
-
-`let monthlyExpenses = 1100;` and hit enter.
-
-`monthlyPaycheck — monthlyExpenses` and hit enter.
-
-You get the same results but you won't be confused by these variables later as you would be by x and y.
-
-![](/img/monthly.png)
+![](/img/monthly.png) -->
 
 ### Exercise Two (10 minutes)
 
-Create three variables that hold _real world_ numbers (cost of groceries, transportation tickets, etc) and do a _real world_ mathematical operation on them in the console.
+Create three variables that hold _real world_ numbers (cost of groceries, criminal justice numbers, etc) and do a _real world_ mathematical operation on them in the console.
 
 ### Escaping Special Characters
 
@@ -194,6 +184,7 @@ Now create a variable that combines previous variables to create a complete sent
 
 HINT: strings can be added together.
 
+<!--
 ### Arrays
 
 Often you'll want one variable to hold multiple values. These special variables are called "arrays" and give you great versatility.
@@ -230,7 +221,7 @@ If you expand one of the triangles you can see the index position:
 
 ![](/img/menu-expanded.png)
 
-We aren't likely do much more with objects this semester, but are incredibly powerful, flexible and complex. Objects are what make JavaScript an "object-oriented" language.
+We aren't likely do much more with objects this semester, but are incredibly powerful, flexible and complex. Objects are what make JavaScript an "object-oriented" language. -->
 
 ## Comparison Operators
 
